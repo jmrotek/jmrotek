@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jmrotek
-- 👀 I’m interested in crafting innovative engineering solutions with code in the semi-conductor industry. I have hands on process engineering experience with every variety of metrology equipment, from ellipsometers to sorters.
-- 🌱 I’m currently learning Pandas (Python) for data analysis at work and on home projects. I am also learning C++ for equipment interface code.
-- 💞️ I’m looking to collaborate on any projects involving machine learning and data analysis.
+- 👀 I'm a metrology process engineer in the semi-conductor manufacturing industry.
+- 🌱 I use Pandas (python) for yield and automation projects at work and sports betting analysis home.
+- 💞️ I’m looking to collaborate on any projects involving sports betting data analysis.
 - 📫 How to reach me [...](https://www.linkedin.com/in/jaymrotek/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a cat named Marci McChicken!
