@@ -3,7 +3,7 @@
 - 🌱 I use Python extensively for:
 - 	**Yield and automation optimization** in the manufacturing process (Pandas library)
 - 	**Data-driven analysis of player performance** in Dota 2 (Webscraping and Discord API)
-- 	**Sports betting analytics** (Webscraping and data modeling)
+- 	**Sports analytics** (Webscraping and data modeling)
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/jaymrotek/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a cat named Marci McChicken!
